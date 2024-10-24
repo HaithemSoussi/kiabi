@@ -47,6 +47,3 @@ npm run dev
 ```
 
 Open http://localhost:3000 in your browser to see the app in action.
-
-I deployed the site in vercel.app this is the link :
-https://kiabi-test-pgd5ahcgq-haithems-projects-bb146138.vercel.app
