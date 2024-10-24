@@ -6,7 +6,7 @@ This is a simple Next.js application that displays a list of events happening in
 - Display events in Paris (title, date, location, and image).
 - Search for events using keywords.
 - View by event
-- Built with Next.js 15.0.0 and React.
+- Built with Next.js 15.0.0 and React 19.0.0-rc.
 
 ### Getting Started
 
