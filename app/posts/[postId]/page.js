@@ -2,7 +2,7 @@ import EventCard from '@/app/component/eventCard';
 
 
 export default async function postPage({ params }) {
-    const id = await params.postId
+    const id = (await params).postId
     const response = await fetch(
     `https://opendata.paris.fr/api/explore/v2.1/catalog/datasets/que-faire-a-paris-/records?where=id%3D${id}&limit=1`
     , { 
